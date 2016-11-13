@@ -1,6 +1,6 @@
 # What I've Learned Since College
 
-![Learning](/images/learning.gif)
+![Learning](/images/title.gif)
 
 <..>
 

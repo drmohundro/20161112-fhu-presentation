@@ -93,4 +93,8 @@ Note:
 Note:
 
 * http://gitstats.sourceforge.net/
+  * `cd ~/dev/clearfunction/tronix/tronix-website`
+  * `cd ~/Downloads/su/ServiceU/serviceu/gitstats/index.html`
+  * `open gitstats/index.html`
 * http://gource.io/
+  * `gource`
